@@ -8,7 +8,7 @@
     </thead>
     <tbody>
         <tr>
-<td align="center"><a href="https://github.com/AGhaith/Task1/blob/main/README.md">        <img src="/Logos/Samsung-Innovation-Campus-Project.png"          width="80%"></img></a></td>
+<td align="center"><a href="https://github.com/AGhaith/Task1/blob/main/README.md">        <img src="/Logos/Task1.png"          width="80%"></img></a></td>
         </tr>
     </tbody>
 </table>
