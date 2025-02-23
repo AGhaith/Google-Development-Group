@@ -3,9 +3,9 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/Task1/blob/master/README.md">         Task1    </a></td>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/Task2/blob/master/README.md">         Task2    </a></td>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/Inclass-Task/blob/master/README.md">         In-class Tasks    </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/GDG-Session-1/blob/master/README.md">         Session 1    </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/GDG-Session-2/blob/master/README.md">         Session 2    </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/Inclass-Task/blob/master/README.md">         Session 3    </a></td>
         </tr>
     </thead>
     <tbody>
